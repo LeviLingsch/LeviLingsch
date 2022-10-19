@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Computational Science and Engineering in Zurich, Switzerland. 
 - 🌱 I'm working to enhance the capabilities of Fourier Neural Operators at the ETH Soft Robotics Lab.
 - 💞️ I’m looking to collaborate on far fetched ideas which probably won't work, but we can learn a lot from.
-- 📫 Reach me through email at levi.lingsch@srl.ethz.ch.
+- 📫 Reach me through email at levi.lingsch@sam.math.ethz.ch
 
 <!---
 LeviLingsch/LeviLingsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
